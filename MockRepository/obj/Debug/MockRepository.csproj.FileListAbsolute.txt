@@ -1,0 +1,16 @@
+C:\Users\Rama Repaka\Desktop\SMAproject3\MockRepository\bin\Debug\MockRepository.exe.config
+C:\Users\Rama Repaka\Desktop\SMAproject3\MockRepository\bin\Debug\MockRepository.exe
+C:\Users\Rama Repaka\Desktop\SMAproject3\MockRepository\bin\Debug\MockRepository.pdb
+C:\Users\Rama Repaka\Desktop\SMAproject3\MockRepository\bin\Debug\IService.dll
+C:\Users\Rama Repaka\Desktop\SMAproject3\MockRepository\bin\Debug\PluggableCommService.exe
+C:\Users\Rama Repaka\Desktop\SMAproject3\MockRepository\bin\Debug\TestUtilities.exe
+C:\Users\Rama Repaka\Desktop\SMAproject3\MockRepository\bin\Debug\IService.pdb
+C:\Users\Rama Repaka\Desktop\SMAproject3\MockRepository\bin\Debug\IService.dll.config
+C:\Users\Rama Repaka\Desktop\SMAproject3\MockRepository\bin\Debug\PluggableCommService.pdb
+C:\Users\Rama Repaka\Desktop\SMAproject3\MockRepository\bin\Debug\PluggableCommService.exe.config
+C:\Users\Rama Repaka\Desktop\SMAproject3\MockRepository\bin\Debug\TestUtilities.pdb
+C:\Users\Rama Repaka\Desktop\SMAproject3\MockRepository\bin\Debug\TestUtilities.exe.config
+C:\Users\Rama Repaka\Desktop\SMAproject3\MockRepository\obj\Debug\MockRepository.csprojResolveAssemblyReference.cache
+C:\Users\Rama Repaka\Desktop\SMAproject3\MockRepository\obj\Debug\MockRepository.csproj.CoreCompileInputs.cache
+C:\Users\Rama Repaka\Desktop\SMAproject3\MockRepository\obj\Debug\MockRepository.exe
+C:\Users\Rama Repaka\Desktop\SMAproject3\MockRepository\obj\Debug\MockRepository.pdb

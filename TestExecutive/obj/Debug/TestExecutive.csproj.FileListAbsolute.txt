@@ -1,0 +1,7 @@
+C:\Users\Rama Repaka\Desktop\SMAproject3\TestExecutive\bin\Debug\TestExecutive.exe.config
+C:\Users\Rama Repaka\Desktop\SMAproject3\TestExecutive\bin\Debug\TestExecutive.exe
+C:\Users\Rama Repaka\Desktop\SMAproject3\TestExecutive\bin\Debug\TestExecutive.pdb
+C:\Users\Rama Repaka\Desktop\SMAproject3\TestExecutive\obj\Debug\TestExecutive.csproj.CoreCompileInputs.cache
+C:\Users\Rama Repaka\Desktop\SMAproject3\TestExecutive\obj\Debug\TestExecutive.exe
+C:\Users\Rama Repaka\Desktop\SMAproject3\TestExecutive\obj\Debug\TestExecutive.pdb
+C:\Users\Rama Repaka\Desktop\SMAproject3\TestExecutive\obj\Debug\TestExecutive.csprojResolveAssemblyReference.cache

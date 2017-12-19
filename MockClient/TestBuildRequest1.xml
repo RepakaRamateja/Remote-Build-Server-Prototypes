@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-16"?>
+<BuildRequest>
+  <Builds>
+    <BuildItem>
+      <driver>
+        <file>
+          <name>TestDriver1.cs</name>
+        </file>
+      </driver>
+      <sourcefiles>
+        <file>
+          <name>SourceFile1.cs</name>
+        </file>
+        <file>
+          <name>SourceFile2.cs</name>
+        </file>
+      </sourcefiles>
+    </BuildItem>
+  </Builds>
+</BuildRequest>
